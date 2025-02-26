@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋 I'm Yessir
 
-<!--
-**Yessir11/Yessir11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **DevOps | Cybersecurity | Web Development**  
+📚 Master's Student in Information Security  
+💻 Passionate about automation, security, and web technologies  
+⚽ Football analyst & content creator  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack:
+- 🛠 DevOps: Docker, Kubernetes, Ansible, Terraform  
+- ☁️ Cloud: AWS 
+- 🔐 Security: Zero Trust, DevSecOps, MFA  
+- 🖥️ Web Dev: Flask, Python
+- 🗄️ Databases: MySQL, PostgreSQL, MongoDB  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me:
+- 📩 Email: yessirnoudo@yahoo.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/yessir-gouton-ab4b0a1a9/
+- ⚽ Telegram @Yessir_Noudo11
+
+💡 *"Security and automation go hand in hand!"*
+
